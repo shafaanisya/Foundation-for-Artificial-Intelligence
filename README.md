@@ -1,5 +1,6 @@
 # Foundation-for-Artificial-Intelligence
 Assignment 1 : Artificial Intelligence Track (Startup Campus, Indonesia)
+
 Nama : 
 01 – Individu – Shafa Anisya Aji Divana
 
