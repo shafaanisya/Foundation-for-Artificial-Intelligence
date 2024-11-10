@@ -1,4 +1,4 @@
-# Foundation-for-Artificial-Intelligence
+# Foundation or Artificial Intelligence
 Assignment 1 : Artificial Intelligence Track (Startup Campus, Indonesia)
 
 Nama : 
